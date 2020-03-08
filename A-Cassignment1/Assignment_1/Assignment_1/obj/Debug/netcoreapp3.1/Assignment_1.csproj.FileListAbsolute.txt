@@ -1,0 +1,10 @@
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Assignment_1.deps.json
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Assignment_1.runtimeconfig.json
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Assignment_1.runtimeconfig.dev.json
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Assignment_1.dll
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Assignment_1.pdb
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.1/Assignment_1.csprojAssemblyReference.cache
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.1/Assignment_1.AssemblyInfoInputs.cache
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.1/Assignment_1.AssemblyInfo.cs
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.1/Assignment_1.dll
+/Users/myronfurtado/Desktop/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.1/Assignment_1.pdb
