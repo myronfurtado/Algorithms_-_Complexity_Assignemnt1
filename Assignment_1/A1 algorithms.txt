@@ -1,0 +1,27 @@
+//string Net_1_256 = @"‎C:\Users\LENOVO\OneDrive\Desktop\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Net_1_256.txt";
+            //int[] Net_1= new int[] { };
+            //List<string> arraynunber1_256 = new List<string>();
+
+            //arraynumber1 = File.ReadAllLines( @"‎C:/Users/LENOVO/OneDrive/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Net_1_256.txt").ToList();
+
+
+
+C:/Users/LENOVO/OneDrive/Desktop/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.1/Net_1_2048.txt
+
+
+
+
+C:/Users/LENOVO/OneDrive/Desktop/Assignment_1/Assignment_1/._Net_1_256.txt
+
+
+using the add to array method(did not work)
+            List<int> array1 = new List<int>();
+            int[] integerArray = new int[2050];
+            int contor = 0;
+            string[] stringArray = File.ReadAllLines("Net_1_2048.txt");
+            foreach (string line in stringArray)
+            {
+                array1.Add(Convert.ToInt32(line.Trim()));
+                integerArray[contor] = Convert.ToInt32(line.Trim());
+                ++contor;
+            }
